@@ -1,0 +1,154 @@
+{
+  "bdGatos": [
+    {
+      "id": "7",
+      "imagen": "../images/matilde.jpg",
+      "nombre": "Matilde",
+      "raza": "British shorthair",
+      "imgSexo": "../images/hembra.png",
+      "edad": "6 Meses",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Maria Dolores",
+      "imgPublicante": "../images/maria-dolores.png"
+    },
+    {
+      "id": "8",
+      "imagen": "../images/pelusa-cat.jpg",
+      "nombre": "Pelusa",
+      "raza": "Birmano",
+      "imgSexo": "../images/hembra.png",
+      "edad": "5 Años",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Pelusa es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Juan Jesus",
+      "imgPublicante": "../images/juan-jesus.png"
+    },
+    {
+      "id": "9",
+      "imagen": "../images/kity.jpg",
+      "nombre": "Kity",
+      "raza": "Birmano",
+      "imgSexo": "../images/macho.png",
+      "edad": "2 Años",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Kity es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Maria Dolores",
+      "imgPublicante": "../images/maria-dolores.png"
+    },
+    {
+      "id": "10",
+      "imagen": "../images/bombon.jpg",
+      "nombre": "Bombón",
+      "raza": "Birmano",
+      "imgSexo": "../images/hembra.png",
+      "edad": "8 Meses",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Bombón es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Juan Jesus",
+      "imgPublicante": "../images/juan-jesus.png"
+    },
+    {
+      "id": "11",
+      "imagen": "../images/panko.jpg",
+      "nombre": "Panko",
+      "raza": "Calico",
+      "imgSexo": "../images/hembra.png",
+      "edad": "3 Años",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Panko es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Maria Dolores",
+      "imgPublicante": "../images/maria-dolores.png"
+    },
+    {
+      "id": "12",
+      "imagen": "../images/criollo.jpg",
+      "nombre": "Tommy",
+      "raza": "Criollo",
+      "imgSexo": "../images/macho.png",
+      "edad": "8 Años",
+      "favorito": "false",
+      "personalidad1": [
+        "../images/cariñoso.png",
+        "Cariñoso"
+      ],
+      "personalidad2": [
+        "../images/jugueton.png",
+        "Juguetón"
+      ],
+      "personalidad3": [
+        "../images/tierno.png",
+        "Tierno"
+      ],
+      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "historia": "Tommy es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "publicante": "Juan Jesus",
+      "imgPublicante": "../images/juan-jesus.png"
+    }
+  ]
+}
