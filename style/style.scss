@@ -328,6 +328,7 @@ main {
             border: none;
             color: white;
             justify-content: flex-end;
+            cursor: pointer;
          }
       }
    }
@@ -411,6 +412,7 @@ main {
       padding-top: 20px;
       padding-bottom: 20px;
       min-height: 375px;
+      margin-bottom: 0;
 
       #message-det-one {
          display: flex;

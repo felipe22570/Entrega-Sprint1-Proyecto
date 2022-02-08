@@ -29,17 +29,19 @@
          <form id="usuario-form">
             <label for="form-nombre">Nombre</label>
 
-            <input type="text" name="form-nombre" id="form-nombre" />
+            <input type="text" name="form-nombre" id="form-nombre" readonly />
             <br />
             <label for="form-apellido">Apellido</label>
 
-            <input type="text" name="form-apellido" id="form-apellido" />
+            <input type="text" name="form-apellido" id="form-apellido" readonly />
             <br />
             <label for="form-email">Email</label>
 
-            <input type="email" name="form-email" id="form-email" />
+            <input type="email" name="form-email" id="form-email" readonly />
+
+            <input type="number" name="form-id" id="form-id" style="display: none" readonly />
             <br />
-            <button type="submit">Guardar</button>
+            <button id="boton" type="button">Guardar</button>
          </form>
       </main>
       <footer>

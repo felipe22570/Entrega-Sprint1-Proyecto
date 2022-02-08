@@ -441,6 +441,7 @@ main #main-cards .card #card-texto {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
+  cursor: pointer;
 }
 
 #message .mensajes-content {
@@ -547,6 +548,7 @@ main #main-cards .card #card-texto {
   padding-top: 20px;
   padding-bottom: 20px;
   min-height: 375px;
+  margin-bottom: 0;
 }
 
 #message-detail #message-det #message-det-one {

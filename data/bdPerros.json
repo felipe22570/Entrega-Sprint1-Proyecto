@@ -1,154 +1,106 @@
 {
-  "bdPerros": [
-    {
-      "id": "1",
-      "imagen": "../images/rocky.jpg",
-      "nombre": "Rocky",
-      "raza": "Rottweiler",
-      "imgSexo": "../images/macho.png",
-      "edad": "3 Meses",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Maria Dolores",
-      "imgPublicante": "../images/maria-dolores.png"
-    },
-    {
-      "id": "2",
-      "imagen": "../images/papi.jpg",
-      "nombre": "Papi",
-      "raza": "Chihuahua",
-      "imgSexo": "../images/macho.png",
-      "edad": "5 Meses",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Papi es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Juan Jesus",
-      "imgPublicante": "../images/juan-jesus.png"
-    },
-    {
-      "id": "3",
-      "imagen": "../images/charlie.jpg",
-      "nombre": "Charlie",
-      "raza": "Chihuahua",
-      "imgSexo": "../images/macho.png",
-      "edad": "2 Meses",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Charlie es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Maria Dolores",
-      "imgPublicante": "../images/maria-dolores.png"
-    },
-    {
-      "id": "4",
-      "imagen": "../images/pelusa-cat.jpg",
-      "nombre": "Pelusa",
-      "raza": "Bichón frisé",
-      "imgSexo": "../images/hembra.png",
-      "edad": "2 Años",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Pelusa es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Juan Jesus",
-      "imgPublicante": "../images/juan-jesus.png"
-    },
-    {
-      "id": "5",
-      "imagen": "../images/french_poddle.jpg",
-      "nombre": "Princesa",
-      "raza": "French puddle",
-      "imgSexo": "../images/hembra.png",
-      "edad": "7 Años",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Princesa es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Maria Dolores",
-      "imgPublicante": "../images/maria-dolores.png"
-    },
-    {
-      "id": "6",
-      "imagen": "../images/chester.jpg",
-      "nombre": "Chester",
-      "raza": "Golden retriever",
-      "imgSexo": "../images/macho.png",
-      "edad": "5 Años",
-      "favorito": "false",
-      "personalidad1": [
-        "../images/cariñoso.png",
-        "Cariñoso"
-      ],
-      "personalidad2": [
-        "../images/jugueton.png",
-        "Juguetón"
-      ],
-      "personalidad3": [
-        "../images/inquieto.png",
-        "Inquieto"
-      ],
-      "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
-      "historia": "Muñeco es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-      "publicante": "Juan Jesus",
-      "imgPublicante": "../images/juan-jesus.png"
-    }
-  ]
+   "bdPerros": [
+      {
+         "id": "1",
+         "imagen": "../images/rocky.jpg",
+         "nombre": "Rocky",
+         "raza": "Rottweiler",
+         "imgSexo": "../images/macho.png",
+         "edad": "3 Meses",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "0",
+         "publicante": "Maria Dolores",
+         "imgPublicante": "../images/maria-dolores.png"
+      },
+      {
+         "id": "2",
+         "imagen": "../images/papi.jpg",
+         "nombre": "Papi",
+         "raza": "Chihuahua",
+         "imgSexo": "../images/macho.png",
+         "edad": "5 Meses",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Papi es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "1",
+         "publicante": "Juan Jesus",
+         "imgPublicante": "../images/juan-jesus.png"
+      },
+      {
+         "id": "3",
+         "imagen": "../images/charlie.jpg",
+         "nombre": "Charlie",
+         "raza": "Chihuahua",
+         "imgSexo": "../images/macho.png",
+         "edad": "2 Meses",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Charlie es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "0",
+         "publicante": "Maria Dolores",
+         "imgPublicante": "../images/maria-dolores.png"
+      },
+      {
+         "id": "4",
+         "imagen": "../images/pelusa-cat.jpg",
+         "nombre": "Pelusa",
+         "raza": "Bichón frisé",
+         "imgSexo": "../images/hembra.png",
+         "edad": "2 Años",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Pelusa es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "1",
+         "publicante": "Juan Jesus",
+         "imgPublicante": "../images/juan-jesus.png"
+      },
+      {
+         "id": "5",
+         "imagen": "../images/french_poddle.jpg",
+         "nombre": "Princesa",
+         "raza": "French puddle",
+         "imgSexo": "../images/hembra.png",
+         "edad": "7 Años",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Princesa es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "0",
+         "publicante": "Maria Dolores",
+         "imgPublicante": "../images/maria-dolores.png"
+      },
+      {
+         "id": "6",
+         "imagen": "../images/chester.jpg",
+         "nombre": "Chester",
+         "raza": "Golden retriever",
+         "imgSexo": "../images/macho.png",
+         "edad": "5 Años",
+         "favorito": "false",
+         "personalidad1": ["../images/cariñoso.png", "Cariñoso"],
+         "personalidad2": ["../images/jugueton.png", "Juguetón"],
+         "personalidad3": ["../images/inquieto.png", "Inquieto"],
+         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
+         "historia": "Muñeco es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+         "idPublicante": "1",
+         "publicante": "Juan Jesus",
+         "imgPublicante": "../images/juan-jesus.png"
+      }
+   ]
 }

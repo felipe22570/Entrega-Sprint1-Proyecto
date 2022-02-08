@@ -1,10 +1,10 @@
 {
-   "bdUser": [
-      {
-         "id": "1",
-         "nombre": "Juan",
-         "apellido": "Mendez",
-         "correo": "juanmendez@gmail.com"
-      }
-   ]
+  "bdUser": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "apellido": "Mendez",
+      "correo": "juanmendez@gmail.com"
+    }
+  ]
 }

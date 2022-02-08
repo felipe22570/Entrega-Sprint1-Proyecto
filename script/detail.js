@@ -20,6 +20,7 @@ export const detalles = (e) => {
       personalidad2,
       personalidad3,
       historia,
+      idPublicante,
       publicante,
       imgPublicante,
    } = seleccion;
@@ -77,7 +78,7 @@ export const detalles = (e) => {
              <span style="font-weight: bolder">${publicante}</span>
           </div>
 
-          <button class="contactar">Contactar</button>
+          <button id="${idPublicante}" class="contactar">Contactar</button>
        </div>
        </div>
        </main>
@@ -96,6 +97,7 @@ body.addEventListener("click", (e) => {
 
 body.addEventListener("click", (e) => {
    const contactar = e.target.classList.contains("contactar");
+   const idContacto = e.target.id;
 
    if (contactar) {
       window.location.href = "message-detail.html";

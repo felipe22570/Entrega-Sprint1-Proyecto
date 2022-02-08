@@ -22,6 +22,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "0",
       "publicante": "Maria Dolores",
       "imgPublicante": "../images/maria-dolores.png"
     },
@@ -47,6 +48,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Pelusa es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "1",
       "publicante": "Juan Jesus",
       "imgPublicante": "../images/juan-jesus.png"
     },
@@ -72,6 +74,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Kity es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "0",
       "publicante": "Maria Dolores",
       "imgPublicante": "../images/maria-dolores.png"
     },
@@ -97,6 +100,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Bombón es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "1",
       "publicante": "Juan Jesus",
       "imgPublicante": "../images/juan-jesus.png"
     },
@@ -122,6 +126,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Panko es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "0",
       "publicante": "Maria Dolores",
       "imgPublicante": "../images/maria-dolores.png"
     },
@@ -147,6 +152,7 @@
       ],
       "direccion": "4140 Parker Rd. Allentown, New Mexico 31134",
       "historia": "Tommy es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+      "idPublicante": "1",
       "publicante": "Juan Jesus",
       "imgPublicante": "../images/juan-jesus.png"
     }

@@ -2,6 +2,19 @@
    "bdMensajes": [
       {
          "id": "1",
+         "imagen": "../images/maria-dolores.png",
+         "nombre": "Maria Dolores",
+         "mensaje1": ["4:00 p.m", "¡Hola! Me encantaría adoptarlo"],
+         "mensaje2": [
+            "4:36 p.m",
+            "¡Hola! Claro, podemos acordar un lugar y hora para que lo conozcas"
+         ],
+         "mensaje3": ["5:07 p.m", "Perfecto! Nos vemos mañana en la tarde en tu oficina"]
+      },
+      {
+         "id": "2",
+         "imagen": "../images/juan-jesus.png",
+         "nombre": "Juan Jesus",
          "mensaje1": ["4:00 p.m", "¡Hola! Me encantaría adoptarlo"],
          "mensaje2": [
             "4:36 p.m",
