@@ -6,6 +6,7 @@ const inputNombre = document.getElementById("form-nombre");
 const inputApellido = document.getElementById("form-apellido");
 const inputCorreo = document.getElementById("form-email");
 const editar = document.getElementById("editar");
+const span = document.getElementById("span-info");
 
 export const getData = async (e) => {
    e.preventDefault();
@@ -21,6 +22,8 @@ export const getData = async (e) => {
       inputNombre.value = nombre;
       inputApellido.value = apellido;
       inputCorreo.value = correo;
+
+      span.innerHTML = nombre + " " + apellido;
    });
 };
 
